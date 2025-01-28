@@ -313,7 +313,7 @@ Authorization: Bearer <JWT_access_token>
   {
     "id": 1,
     "bookId": 58,
-    "borrowedBy": "sandesh",
+    "borrowedBy": "harsh",
     "borrowedAt": "2024-10-22T10:15:30Z"
   }
   ```
