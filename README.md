@@ -72,9 +72,9 @@ By following this project,
    - **Request Body**:
      ```json
      {
-       "firstname": "sandesh",
-       "lastname": "bhujbal",
-       "email": "bhujbalsandesh52@gmail.com",
+       "firstname": "harsh",
+       "lastname": "chavan",
+       "email": "harsha@gmail.com",
        "password": "Password@123"
      }
      ```
@@ -91,7 +91,7 @@ By following this project,
    - **Request Body**:
      ```json
      {
-       "email": "bhujbalsandesh52@gmail.com",
+       "email": "harsha@gmail.com",
        "password": "Password@123"
      }
      ```
